@@ -16,9 +16,11 @@ function Navbar() {
         <li>
           <a href="/fixit">Fixit</a>
         </li>
-        <li>
+          <li>
           <a href="https://www.google.com/maps">Repair Near me</a>
+
         </li>
+        <li><span id="google_translate_element"></span></li> 
       </ul>
     </nav>
   );
