@@ -1,0 +1,54 @@
+.fix1{
+background-image: url('../assets/fix1.jpeg');
+background-color: wheat;
+width: 100%;
+height: 40vh;
+text-align: center;
+justify-content: center;
+}
+.text{
+font-size: 2rem;
+padding: 5rem;
+font-weight: 50;
+color: black;
+background-color: white;
+text-align: center;
+}
+.text h1{
+    color: #2BA837;
+    margin: 1rem;
+}
+.text p{
+    color: black;
+}
+.card{
+    border: solid 2px #2BA837;
+    margin: 1rem;
+    width: 20.2rem;
+    height: auto;
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px #2BA837;
+}
+.card img{
+    width: 20rem;
+    height: auto;
+    border-radius: 1rem;
+}
+.card h1{
+    color: #2BA837;
+    margin: 1rem;
+}
+.card p{
+    color: black;
+    margin: 1rem;
+}
+.button{
+    background-color: #2BA837;
+    color: white;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    border: none;
+    cursor: pointer;
+}

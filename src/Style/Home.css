@@ -1,0 +1,74 @@
+*{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Pangolin', cursive;
+    font-family: 'Rubik', sans-serif;
+}
+.home{
+display: flex;
+justify-content: center;
+background-color: black;
+}
+.home__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    max-height: 100%;
+    padding: 0 1rem;
+    width: 100%;
+    color: #fff;
+    margin-left: 1.6rem;
+}
+.h{
+    font-size: 1.3rem;
+    font-weight: 750;
+    color: #2BA837;
+    text-shadow: 3px 3px 3px #000;
+}
+.ph{
+    font-size: 4rem;
+    font-weight:700;
+    margin-bottom: 1rem;
+    color: white;
+    text-shadow: 3px 3px 3px #000;
+    margin-top: 0.2rem;
+}
+.but{
+    font-size: 1.5rem;
+    color: white;
+    text-shadow: 3px 3px 3px #000;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    background-color: #2BA837;
+    padding: 1rem 2rem 1rem 2rem;
+    margin-right: 28rem;
+    border-radius: 1rem;
+}
+.but:hover{
+    background-color: black;
+    cursor: pointer;
+    border:solid 2px #2BA837;
+
+}
+.but:active{
+    background-color: #2BA837;
+    border:solid 2px #2BA837;
+}
+.make{
+    text-align: center;
+}
+.make h1{
+    font-size: 4rem;
+    font-weight: 700;
+    color: #2BA837;
+    text-shadow: 3px 3px 3px #000;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}   
+.make p{
+    color:#000;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+    

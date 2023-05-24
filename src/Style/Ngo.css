@@ -1,0 +1,16 @@
+.card{
+    border: solid 2px #2BA837;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.butt{
+    background-color: #2BA837;
+    color: white;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    border: none;
+    cursor: pointer;
+}

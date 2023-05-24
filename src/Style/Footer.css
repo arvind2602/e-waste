@@ -1,0 +1,19 @@
+.footer ul li{
+    list-style: none;
+    padding: 10px;
+    font-size: 20px;
+    color: #2BA837;
+    cursor: pointer;
+}
+.footer{
+    background-color: black;
+    padding: 1rem;
+    text-align: center;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: white;
+}
+.footer p{
+    color: #2BA837;
+}
