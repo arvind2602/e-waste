@@ -18,7 +18,7 @@ const Footer = () => {
         <br/>
         <br/>
         
-        <p>@Designed by <a href='https://github.com/arvind2602'>Arvind Gupta</a> and team</p>
+        <p>@Designed by<a href='https://github.com/arvind2602'> Arvind Gupta</a> and team</p>
     </div>
   )
 }
