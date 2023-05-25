@@ -36,7 +36,8 @@ To run the platform locally, follow these steps:
 
 2. Contributing:
      
-    1. Fork the repository by clicking on the "Fork" button on the project's GitHub page.
+    ```bash
+    1. Fork the repository by clicking on the "Fork" button on the projects GitHub page.
     2. Clone your forked repository to your local machine
     3. Create a new branch for your feature or bug fix
 
@@ -44,7 +45,7 @@ To run the platform locally, follow these steps:
     ## Making Changes
 
       1. Make your desired changes to the codebase, adding new features or fixing bugs.
-      2. Ensure that your code follows the project's coding style and conventions.
+      2. Ensure that your code follows the project coding style and conventions.
       3. Test your changes thoroughly to ensure they work as intended.
       4. Commit your changes with descriptive commit messages
 
