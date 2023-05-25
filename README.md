@@ -10,17 +10,17 @@ Our idea is to create a comprehensive e-waste reduction platform that addresses 
 
    We developed a user-friendly marketplace where individuals can create accounts and list their used electronic products for sale. Users will have access to various product categories, search filters, and sorting options to easily find specific items.
 
-2. Q&A Forum
+2. Community Forum
 
-   Our platform include a community-driven Q&A forum where users can ask questions, seek advice, and share knowledge about reducing e-waste. By creating a supportive environment, we aim to foster a culture of learning and enable users to make informed decisions about their electronic purchases. The forum will feature a voting or rating system to highlight the most helpful answers, allowing users to benefit from collective expertise.
+   Our platform include a community-driven Q&A forum where users can ask questions, seek advice, and share knowledge about reducing e-waste.
 
 3. Donations
 
-   We recognize the value of reusing electronic devices and the positive impact it can have on reducing e-waste. Therefore, our platform will facilitate the donation process by connecting individuals who want to donate their used electronic products with those in need. Users will be able to create donation listings, providing details about the items, their condition, and location for pick-up or drop-off. Our platform will enable smooth communication between donors and recipients to coordinate logistics and ensure a successful donation process.
+  Our platform will enable smooth communication between donors and recipients to coordinate logistics and ensure a successful donation process.
 
 4. Interactive Map
 
-   To enhance accessibility, we will integrate an interactive map feature into our platform. This feature will help users locate nearby drop-off points, recycling centers, repair services, and donation centers. By utilizing geolocation services, we will identify the user's location and display relevant markers or listings on the map. Users will be able to filter the map based on their specific needs, making it convenient for them to find the most suitable e-waste disposal options in their area.
+   To enhance accessibility, we will integrate an interactive map feature into our platform. This feature will help users locate nearby drop-off points, recycling centers, repair services, and donation centers. 
 
 ## Getting Started
 
